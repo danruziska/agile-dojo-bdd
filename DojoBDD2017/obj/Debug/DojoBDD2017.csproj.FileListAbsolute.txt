@@ -1,0 +1,14 @@
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\DojoBDD2017.dll.config
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\DojoBDD2017.dll
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\DojoBDD2017.pdb
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\Newtonsoft.Json.dll
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\WebDriver.dll
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\WebDriver.Support.dll
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\Newtonsoft.Json.xml
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\WebDriver.xml
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\bin\Debug\WebDriver.Support.xml
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\obj\Debug\DojoBDD2017.csprojResolveAssemblyReference.cache
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\obj\Debug\DojoBDD2017.dll
+c:\users\danilo.ruziska\documents\visual studio 2015\Projects\DojoBDD2017\DojoBDD2017\obj\Debug\DojoBDD2017.pdb
